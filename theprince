@@ -1,0 +1,33 @@
+{
+  "title": "Chess OCT: The Prince",
+  "description": "A man's attempts to live peacefully in a war weary world",
+  "artist": "Pengogo (and others)",
+  "author": "Pengogo (and others)",
+  "cover": "https://i.imgur.com/I35Je7j.png",
+  "chapters": {
+    "1": {
+      "title": "Prologue: The Prince",
+      "volume": "1",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/Do22NQ9/"
+      },
+      "last_updated": "1616368746"
+    },
+  "2": {
+      "title": "Round 1: Death's Embrace (W)",
+      "volume": "2",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/Xme2CiF/"
+      },
+      "last_updated": "1616368746"
+    },
+ "3": {
+      "title": "Round 1: Guns & Roses (L)",
+      "volume": "3",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/BEtlSGr/"
+      },
+      "last_updated": "1616368746"
+    }
+}
+}
