@@ -22,10 +22,50 @@
       "last_updated": "1616368746"
     },
  "3": {
-      "title": "Round 1: Guns & Roses (L)",
+      "title": "Round 1.5: Intermission",
       "volume": "3",
       "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/GmliA0F/"
+      },
+      "last_updated": "1616368746"
+    },
+ "4": {
+      "title": "Round 2: Shadows in the Snow (W)",
+      "volume": "4",
+      "groups": {
+        "Pengogo and Rex Rissole": "/proxy/api/imgur/chapter/6Vb4CYy/"
+      },
+      "last_updated": "1616368746"
+    },
+ "5": {
+      "title": "Round 2.5: Intermission",
+      "volume": "5",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/nfwGzn1/"
+      },
+      "last_updated": "1616368746"
+    },
+ "6": {
+      "title": "Round 3: Coronation (?)",
+      "volume": "6",
+      "groups": {
+        "Xeno200": "/proxy/api/imgur/chapter/ulautVC/"
+      },
+      "last_updated": "1616368746"
+    },
+ "7": {
+      "title": "Round 1: Guns & Roses (L)",
+      "volume": "7",
+      "groups": {
         "Xeno200": "/proxy/api/imgur/chapter/BEtlSGr/"
+      },
+      "last_updated": "1616368746"
+    },
+ "8": {
+      "title": "Round 2: Day and Night (L)",
+      "volume": "8",
+      "groups": {
+        "Xeno200": "/proxy/api/imgur/chapter/qYPNfIT/"
       },
       "last_updated": "1616368746"
     }
