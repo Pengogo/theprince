@@ -54,24 +54,32 @@
       "last_updated": "1616368746"
     },
  "7": {
-      "title": "Round 1: Guns & Roses (L)",
+      "title": "Round 3.5: Intermission",
       "volume": "7",
+      "groups": {
+        "Pengogo": "/proxy/api/imgur/chapter/K0QM7T4/"
+      },
+      "last_updated": "1616368746"
+    },
+ "8": {
+      "title": "Round 1: Guns & Roses (L)",
+      "volume": "8",
       "groups": {
         "Xeno200": "/proxy/api/imgur/chapter/BEtlSGr/"
       },
       "last_updated": "1616368746"
     },
- "8": {
+ "9": {
       "title": "Round 2: Day and Night (L)",
-      "volume": "8",
+      "volume": "9",
       "groups": {
         "Kazar and Mythic": "/proxy/api/imgur/chapter/qYPNfIT/"
       },
       "last_updated": "1616368746"
     },
- "9": {
+ "10": {
       "title": "Round 3: Coronation (L)",
-      "volume": "9",
+      "volume": "10",
       "groups": {
         "Pengogo": "/proxy/api/imgur/chapter/ulautVC/"
       },
